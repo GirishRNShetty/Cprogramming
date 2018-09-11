@@ -1,8 +1,20 @@
 1. why void / int?
-2. why void inside the ()?
+    Return type for the Function either void or int.
+    Function should return the value
+
+2. why void inside the (void)?
+    set of parameters to be passed to the main function
+    
 3. what is /* */?
+  the lines which should not compiled
+  
 4. why int main(void)?
+    the syntax should be followed while writing the code
+    
 5. what is #include<stdio.h> ?
+  the file which consists of the required files for printf and scanf
+  
 6. why it has to strat with # ?
+  header files should start  from # 
 7. what is return 0?
-8. 
+  function should return value either nothing void/ any other data type 
