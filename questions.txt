@@ -1,0 +1,8 @@
+1. why void / int?
+2. why void inside the ()?
+3. what is /* */?
+4. why int main(void)?
+5. what is #include<stdio.h> ?
+6. why it has to strat with # ?
+7. what is return 0?
+8. 
